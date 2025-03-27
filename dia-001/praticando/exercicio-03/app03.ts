@@ -1,0 +1,21 @@
+let n1: number = 1;
+let n2: number = 2;
+let n3: number = 3;
+let n4: number = 4;
+let n5: number = 5;
+let n6: number = 6;
+let n7: number = 7;
+let n8: number = 8;
+let n9: number = 9;
+let n10: number = 10;
+
+console.log(n1);
+console.log(n2);
+console.log(n3);
+console.log(n4);
+console.log(n5);
+console.log(n6);
+console.log(n7);
+console.log(n8);
+console.log(n9);
+console.log(n10);
